@@ -1,6 +1,6 @@
 
-````markdown
-# 🛡️ Sentinel: Automated Legal Compliance Auditor
+
+## 🛡️ Sentinel: Automated Legal Compliance Auditor
 
 **Sentinel** is an Operations Intelligence tool designed to eliminate the "first-pass" review bottleneck in legal departments. It autonomously ingests PDF contracts, scans for high-risk liability clauses, and audits for document completeness using pattern recognition.
 
