@@ -1,0 +1,19 @@
+Ignore Python cache files
+
+pycache/
+*.pyc
+
+Ignore the generated test data (we don't want 50 PDFs on GitHub)
+
+test_contracts/
+output/
+
+Ignore local reports you generate
+
+*.csv
+Sentinel_Audit_Report.csv
+
+Ignore system files
+
+.DS_Store
+Thumbs.db
