@@ -56,8 +56,8 @@ compliance-sentinel/
 Sentinel is built with lightweight dependencies to ensure compatibility with Python 3.14.
 
 ```bash
-git clone [https://github.com/yourusername/compliance-sentinel.git](https://github.com/yourusername/compliance-sentinel.git)
-cd compliance-sentinel
+git clone https://github.com/HMMMMPPP/the-compliance-sentinel
+cd the-compliance-sentinel
 pip install -r requirements.txt
 ```
 
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 I have included a **Procedural Data Generator** that creates 50 unique contracts with randomized states (Clean, Risky, Incomplete) to verify the auditor's accuracy.
 
 ```bash
-python generate_bulk.py
+python sample-maker.py
 # Output: /test_contracts folder created with 50 PDFs.
 ```
 
@@ -92,14 +92,8 @@ Calculated based on a standard batch of **500 Vendor Agreements**.
 
 ## 👤 Author
 
-**[Your Name]**
+**Del Rey L. Valmoria**
+https://delrey-valmoria.netlify.app/
 
 > Bridging the gap between Legal Operations and Software Engineering.
 
-```
-
-### How to use this:
-1.  Create a new file named `README.md`.
-2.  Paste the content inside.
-3.  If you view this on GitHub, GitLab, or VS Code with a Markdown previewer, the "System Architecture" section will automatically render as a flowchart diagram.
-```
